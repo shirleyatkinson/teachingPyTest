@@ -31,7 +31,7 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"alexcvzz.vscode-sqlite"
+				"vscode-sqlite"
 			]
 		}
 	},
